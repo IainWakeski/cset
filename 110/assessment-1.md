@@ -1,1 +1,5 @@
-Write your answers to the first week's assessment questions for CSET-110 here.
+I think that it's important that html is open standard because if it was controlled by one company or person than you would have to follow the standard set by that company or person. Another reason that this is important is because having it as an open standard makes it so that anybody can use html in anyway that they want. This also allows for a wide varity in what programmers can create.
+
+The difference between an element and a tag is an element contains something such as `<p>This is an element</p>` whereas a tag would look like this `<p></p>`. Another thing that makes them different is that in order to be an element there has to be something inside the the start and end angle brackets, otherwise it is just a tag.
+
+The two quotes used relate to  syntax and semantics because they both have a meaning even though the quote from Noam Chomsky doesnt seem to have any meaning. The one from Chomsky repersents semantics because the way semantics work they don't need to be understood by a person however, in programming, the computer interprets them and makes sense of them. On the other hand with syntax it can be understood by people and computers, even if it is a little out of order for how people would read it normally.
