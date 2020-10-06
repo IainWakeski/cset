@@ -1,0 +1,30 @@
+body{
+	background-color: rgb(236, 235, 235);
+}
+p{
+	color: #bd6c17;
+	padding: .5em;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	margin: 6%;
+}
+h1{
+	color:rgb(148, 44, 15);
+	filter: drop-shadow(15px 10px 0px #056dff);
+	text-align: left;
+}
+h2{
+	background-color: #bcceeb;
+	color:aquamarine;
+}
+h3{
+	background: repeating-radial-gradient(#e86694, #0c69cc, #11d131 20%);
+	color:lightsalmon;
+}
+h4{
+	font-family: monospace, cursive, fantasy, sans-serif;
+	outline: 3px ridge rgba(104, 0, 168, .6);
+}
+ul{
+	list-style: square;
+	margin: 2em 2em;
+}
