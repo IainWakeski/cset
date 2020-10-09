@@ -1,0 +1,5 @@
+I will try to keep up with the changes in the tools for web development by keeping an eye on fourms and listings such as the *Mozilla Devlopers Network*, tools like this can be found in various places on the internet. Another wat that I will try to keep up with changes is by talking to other people in the field, because this is one of the best ways to recive information on things that have changed and things that might change.
+
+A limiting factor in using floats in css is that they only work left to right or inline with other floats. Another limitation on using floats is that they can't be used if you are trying to make a grid in the most efficient way, this is because floats can only follow other floats whereas grid items can work across the space of the grid in any order.
+
+The `flex-direction:` property can be used in order to make content change the way that it is ddisplayed on the page. The ways it can be orented and read are left to right, right to left, top to bottom, or bottom to top. The reason that this was implemented was in order to make websites accessible to everybody no matter what language they are reading in.
