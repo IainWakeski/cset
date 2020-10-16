@@ -11,7 +11,7 @@ One example of a media query is ```@media screen and (max-width: 900px){
     .row{
       flex-direction column;
     }
-  }
-``` In this example it takes columns and stacks them on top of one another when the screen is 600 pixels or less wide.
+  }```
+ In this example it takes columns and stacks them on top of one another when the screen is 600 pixels or less wide.
 
 I think that it is better to define breakpoints rather than using specific content, because when you use breakpoints you can define certain points where you want the content to shift and display different. Where as with using specific content you are limiting what you show users on the webpage.
