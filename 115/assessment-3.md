@@ -1,0 +1,1 @@
+I thing the most difficult parts of working with a large team for development would be keeping track of who is working on what aspect of the project at any given time. This is because when working with a large team of developers you may run into issues where more than one person is working on the same thing at the same time.
